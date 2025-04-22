@@ -1,5 +1,5 @@
 # About this course
-Computer Organization 計算機組織
+Computer Organization 計算機組織, 蔡淳仁
 
 2024 Spring
 
